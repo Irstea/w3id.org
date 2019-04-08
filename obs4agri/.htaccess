@@ -1,0 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+# Rewrite rules for CASOO
+RewriteRule ^casoo$ http://github.com/Irstea/casoo [R=302,L]
+
+# Rewrite rules fo IRRIG
+RewriteRule ^coil$ https://github.com/Irstea/irrig [R=302,L]
