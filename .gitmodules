@@ -1,0 +1,6 @@
+[submodule "casoo"]
+	path = casoo
+	url = https://github.com/Irstea/casoo.git
+[submodule "irrig"]
+	path = irrig
+	url = https://github.com/Irstea/irrig.git
